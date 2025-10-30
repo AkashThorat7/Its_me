@@ -15,7 +15,7 @@
 
 💬 **Ask me about:** · Python · DSA ·AI Agent ·GenAI ·Deep Learning ·NLP · Microsoft Azure ·FastAPI ·React ·HTML ·CSS
 
-📩 **How to reach me:** akashthorat77@gmail.com
+📩 **How to reach me:** akashbthorat77@gmail.com
 
 ### Connect with me  
 <a href="https://my-portfolio-react-bkkx-git-main-akash-thorats-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/></a>
@@ -28,7 +28,7 @@
 <td width="50%" align="center">
   
 <!-- Girl coding animation -->
-<img src="https://camo.githubusercontent.com/a69ef1e4a173201181c22ac940c8b17935229d4d45ac5276631cbf4ba3d21db4/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966" width="80%" alt="girl coding gif" />
+<img src="https://github.com/AkashThorat7/Its_me/blob/main/Gemini_Generated_Image_ajjb71ajjb71ajjb.png" width="80%" alt="girl coding gif" />
 
 </td>
 </tr>
