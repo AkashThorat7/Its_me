@@ -1,7 +1,7 @@
 <!-- Centered Title -->
-<h1 align="center">Hi, I'm Chhavi Dhankhar 👋</h1>
+<h1 align="center">Hi, I'm Akash Thorat 👋</h1>
 
-<p align="center">Software Engineer | Full-stack & AI Projects | Always building and learning something</p>
+<p align="center">AI/ML Engineer | AI/ML Projects | Always building and learning something</p>
 
 <br/>
 
@@ -9,19 +9,19 @@
 <tr>
 <td width="50%" valign="top">
 
-<!--🚀 I'm currently working on: [Voice-to-Post Generator](https://github.com/chhavidhankhar/voice-to-post-generator)-->
+<!--🚀 I'm currently working on: [AI Mock Interviewer](https://github.com/AkashThorat7/AI_Mock_interviewer)-->
 
-🌱 **I'm currently learning:** Node.js · System design · Express.js
+🌱 **I'm currently learning:** ·Agentic AI · Reinforcement Learning · AI Automation · React
 
-💬 **Ask me about:** Next.js · React · Python · DSA · Microsoft Azure
+💬 **Ask me about:** · Python · DSA ·AI Agent ·GenAI ·Deep Learning ·NLP · Microsoft Azure ·FastAPI ·React ·HTML ·CSS
 
-📩 **How to reach me:** chhavidhankhar07@gmail.com
+📩 **How to reach me:** akashthorat77@gmail.com
 
 ### Connect with me  
-<a href="https://portfolio-nine-mu-gp7hkjfg80.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/></a>
-<a href="https://x.com/chhavidh07"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/chhavi-dhankhar-a488a9228/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-<a href="https://medium.com/@chhavidhankhar07"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white"/></a>
+<a href="https://my-portfolio-react-bkkx-git-main-akash-thorats-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/></a>
+<a href="https://x.com/thoratab1"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
+<a href="www.linkedin.com/in/akash-thorat-4338a1226"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+<!-- <a href="https://medium.com/@chhavidhankhar07"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white"/></a> -->
 
 </td>
 
@@ -36,17 +36,9 @@
 
 ---
 
-### 📝 Latest Medium Article
+ 📝 
 <!-- Replace with your actual Medium RSS feed link -->
 <!-- You can use https://github.com/marketplace/actions/medium-article-to-readme to automate -->
-📖[Building a Serverless Patient Appointment Portal Backend with an Entire Azure Architecture](https://medium.com/gitconnected/building-a-serverless-patient-appointment-portal-backend-with-entire-azure-architecture-9367d1b28d06)
-
-📖 [My Portfolio MVP Launch: What I Built and What’s Next](https://medium.com/@chhavidhankhar07/my-portfolio-mvp-what-i-built-and-whats-next-89dfe1b37d7f)
-
-📖 [Version Control for My Brain: How I Document Projects, Failures, and Lessons Learned](https://medium.com/gitconnected/version-control-for-my-brain-how-i-document-projects-failures-and-lessons-learned-c3871355fad7)
-
-📖 [How I Built a Voice-Driven Interview Prep App Using Whisper, Gemini, and Streamlit](https://medium.com/@chhavidhankhar07/how-i-built-a-voice-driven-interview-prep-app-using-whisper-gemini-and-streamlit-fcfdfc8ebfe8)
-
 ---
 
 ### 🛠 Skills & Tools
